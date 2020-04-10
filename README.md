@@ -9,9 +9,7 @@
 
 ### EXECUÇÕES:
 
-* .java --> 
-* .java --> 
-* .java --> 
-* .java --> 
-* .java --> 
-* .java --> 
+* Aluno.java --> Criação do nome dos alunos e suas respectivas respostas.
+* Disciplina.java --> Criação da disciplina e seu respectivo nome além da criação da lista de alunos.
+* Main.java --> Execução do programa juntamente com as opções de escolha para o usuário.
+
